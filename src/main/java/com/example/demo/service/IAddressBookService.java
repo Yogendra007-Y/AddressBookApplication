@@ -6,7 +6,7 @@ import com.example.demo.dto.AddressBookDTO;
 import com.example.demo.model.AddressBookData;
 public interface IAddressBookService {
 
-	List<AddressBookData> getAddressBookData();
+List<AddressBookData> getAddressBookData();
 	
 	AddressBookData getAddressBookDataById(int id);
 	

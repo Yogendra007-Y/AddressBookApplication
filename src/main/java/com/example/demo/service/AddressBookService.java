@@ -70,23 +70,5 @@ public class AddressBookService implements IAddressBookService {
 		
 	}
 
-	@Override
-	public AddressBookData getAddressBookDataById(int id) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public AddressBookData createAddressBookData(AddressBookDTO addressBookDTO) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public AddressBookData updateAddressBookData(int id, AddressBookDTO addressBookDTO) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 	
 }
