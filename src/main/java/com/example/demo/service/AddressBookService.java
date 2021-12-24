@@ -20,7 +20,7 @@ public class AddressBookService implements IAddressBookService {
 	@Override
 	public List<AddressBookData> getAddressBookData() {
 		List<AddressBookData> addressBookList = new ArrayList<>();
-		addressBookList.add(new AddressBookData(1, new AddressBookDTO("Dhanashree", "Hakke", "Kavalapur", "Sangli", 8421731310l)));
+		addressBookList.add(new AddressBookData(1, new AddressBookDTO("Yogendra", "Sharma", "Thane", "Mumbai", 845091188l)));
 		return addressBookList;
 	}
 
@@ -32,7 +32,7 @@ public class AddressBookService implements IAddressBookService {
 	@Override
 	public AddressBookData getAddressBookDataById(int id) {
 		AddressBookData contactData = null;
-		contactData = new AddressBookData(1, new AddressBookDTO("Dhanashree", "Hakke", "Kavalapur", "Sangli", 8421731310l));
+		contactData = new AddressBookData(1, new AddressBookDTO("Yogendra", "Sharma", "Thane", "Mumbai", 845091188l));
 		return contactData;
 	}
 
