@@ -48,3 +48,10 @@ Identify and stop the process that's listening on port 8080 or configure this ap
 2021-12-27 19:27:19.299  WARN 1664 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 2021-12-27 19:27:19.730  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Started AddressBookApplication in 4.301 seconds (JVM running for 5.643)
 2021-12-27 19:27:19.734  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Address Book App Started in COMMON Environment
+2021-12-27 19:31:05.293  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Starting AddressBookApplication using Java 17.0.1 on LAPTOP-9A3LF28O with PID 1664 (C:\Users\User\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\AddressBookApplication\target\classes started by User in C:\Users\User\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\AddressBookApplication)
+2021-12-27 19:31:05.294 DEBUG 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Running with Spring Boot v2.6.2, Spring v5.3.14
+2021-12-27 19:31:05.294  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : No active profile set, falling back to default profiles: default
+2021-12-27 19:31:05.988  WARN 1664 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 19:31:06.181  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Started AddressBookApplication in 0.943 seconds (JVM running for 232.095)
+2021-12-27 19:31:06.188  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Address Book App Started in COMMON Environment
+2021-12-27 19:31:06.189  INFO 1664 --- [restartedMain] com.example.demo.AddressBookApplication  : Address Book DB User is root Environment
